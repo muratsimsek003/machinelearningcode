@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+flask
+pickle-mixin
+sklearn
+xgboost
+lightgbm
+seaborn
+imblearn
+psycopg2
+requests
+flask_bootstrap
+flask_uploads
+flask_sqlalchemy
+joblib
